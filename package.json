@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "server": "node_modules/http-server/bin/http-server -p 8070",
-    "watch": "node_modules/webpack/bin/webpack.js --watch --colors --quiet"
+    "watch": "node_modules/webpack/bin/webpack.js --watch --colors --quiet",
+    "elm-build": "elm-make Counter.elm --yes --warn --output=counter.js"
   },
   "keywords": [
     "elm",

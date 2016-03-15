@@ -24,7 +24,14 @@ To run the Babel watcher (if you plan on modifying the JS source code):
 npm run watch
 ```
 
-If you want to play around with the Elm source code, you'll need the elm-platform, available [here](http://elm-lang.org/install). The compiled code is available as part of the repo.
+If you want to play around with the Elm source code, you'll need the elm-platform, available [here](http://elm-lang.org/install). The compiled code is available as part of the repo. 
+
+To compile Counter.elm (this assumes you have elm-platform installed locally):
+
+```bash
+npm run elm-build
+```
+
 
 # Elm vs Redux
 
