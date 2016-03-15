@@ -1,8 +1,8 @@
-* Elm / JavaScript Example *
+# Elm / JavaScript Example 
 
 This is a sample counter that demonstrates the usage of Elm & JavaScript together. 
 
-* Installation & Usage *
+# Installation & Usage
 
 To install dependencies:
 
@@ -26,7 +26,7 @@ npm run watch
 
 If you want to play around with the Elm source code, you'll need the elm-platform, available [here](http://elm-lang.org/install). The compiled code is available as part of the repo.
 
-* Elm vs Redux *
+# Elm vs Redux
 
 There are two JS source files available for bundling (can be changed in webpack.config.js):
 
