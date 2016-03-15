@@ -13,6 +13,10 @@
   ],
   "author": "Raghuvir Kasturi <raghuvir.kasturi@gmail.com> (http://raghuvirkasturi.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d4ncer/elm-js-example.git"
+  },
   "dependencies": {
     "redux": "^3.3.1"
   },
