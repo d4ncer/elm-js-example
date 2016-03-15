@@ -16,7 +16,7 @@ To run the local server:
 npm run server
 ```
 
-The server can be accessed at http://localhost:8070
+The server can be accessed at [http://localhost:8070](http://localhost:8070)
 
 To run the Babel watcher (if you plan on modifying the JS source code):
 
